@@ -1,5 +1,6 @@
 # Tutorial: NFT-minting-tutorial
-## Feel free to create issues and PR for the completed solution. 
+## Feel free to create issues and PR for the completed solution.
+## this repo is a clone of https://github.com/lamnd09/nft-minting-tutorial with some changes to adding LLM metadata to the minting proccess
 A tutorial for designing full-stack Non-Fungible Token (NFT) minting application.
 
 ## For beginning
