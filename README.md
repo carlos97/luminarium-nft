@@ -1,7 +1,5 @@
-# NFT-minting
-## Feel free to create issues and PR for the completed solution.
-## this repo is a clone of https://github.com/lamnd09/nft-minting-tutorial with some changes to adding LLM metadata to the minting proccess
-A tutorial for designing full-stack Non-Fungible Token (NFT) minting application.
+# AssetFlow
+
 
 ## For beginning
 - I would recommend you download [VScode IDE](https://code.visualstudio.com/) and open termnial to complete below steps.
@@ -472,6 +470,7 @@ Set your inputs as below:
 Click on the `Mint` button, you will see the transaction is created as below:
 ![dashboard](./docs/figures/nft-minted.png)
 
+## this repo is a clone of https://github.com/lamnd09/nft-minting-tutorial with some changes to adding LLM metadata to the minting proccess
 
 ## References
 - https://docs.openzeppelin.com/learn/developing-smart-contracts
